@@ -1,0 +1,6 @@
+{
+  "name": "MST Studio - Resilient Network Optimizer",
+  "description": "Comprehensive interactive workstation for Minimum Spanning Trees, Kruskal's algorithm, Disjoint Set Union (DSU), resilience simulation, and empirical performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
